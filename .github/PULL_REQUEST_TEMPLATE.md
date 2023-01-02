@@ -1,45 +1,36 @@
 
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- 변경 사항에 대해 간단하게 요약하여 이 줄 위에 적어주세요. -->
 
-## Description
+## 코드 설명
 
-<!--- Describe your changes in detail -->
+<!--- 어떤 부분이 어떻게 바뀌었는지 자세히 적어주세요. -->
 
-## Related Issue
+## 원인과 기대효과
 
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+<!--- 이 변경이 필요한 이유는 무엇인가요? 어떤 문제를 해결하나요? -->
 
-## Motivation and Context
+## 테스트
 
-<!--- Why is this change required? What problem does it solve? -->
+<!--- 변경 사항을 테스트한 방법을 설명해주세요. -->
+<!--- 테스트 환경 및 실행한 테스트 결과 -->
+<!--- 변경을 통해 새로운 버그나 오류가 발생하는지 체크해주세요!! -->
 
-## How Has This Been Tested?
+## 스크린샷 (선택):
 
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+## 변경 유형
 
-## Screenshots (if appropriate):
-
-## Types of changes
-
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
+<!--- 코드는 어떤 유형의 변경 사항인가요? 해당하는 모든 "[ ]"에 'x'를 입력해주세요. x를 입력할 때 빈공간이 있으면 안됩니다! (예시 [x]) : -->
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
 
-## Checklist:
+## 체크리스트:
 
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+<!--- 모든 목록을 확인하고 해당되는 곳 모두에 `x`를 입력해주세요.-->
 
-- [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have read the **CONTRIBUTING** document.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
+- [ ] 내 코드는 이 프로젝트의 코드 스타일을 따릅니다.
+- [ ] 내 수정사항은 프로젝트 문서를 수정해야 합니다.
+- [ ] 윗 문항에 의해 프로젝트 문서를 수정했습니다.
+- [ ] 변경 사항을 처리하기 위해 테스트를 추가했습니다.
+- [ ] 이미 있더 테스트와 새로운 테스트 모두 통과했습니다.
